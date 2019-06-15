@@ -30,3 +30,4 @@ def get_binary_data():
 	X2 = X[Y <= 1]
 	Y2 = Y[Y <= 1]
 	return X2, Y2
+
